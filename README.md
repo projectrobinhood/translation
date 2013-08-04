@@ -1,4 +1,4 @@
 translation
 ===========
 
-translation of "how to become a hacker"
+translation of "How To Become A Hacker"
